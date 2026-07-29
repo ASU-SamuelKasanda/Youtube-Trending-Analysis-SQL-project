@@ -1,21 +1,25 @@
-YouTube Trending Analysis (SQL)
+YouTube Trending Analysis with SQL
 About
 
-This project analyzes YouTube Trending Videos data using SQL to uncover patterns in user engagement. By querying metrics such as views, likes, dislikes, and comment counts, the analysis identifies the characteristics of highly trending videos and explores how engagement changes across different ranking levels.
+This project explores YouTube Trending Video data using SQL to uncover patterns in user engagement and content performance. By querying a real-world dataset of trending videos, the analysis examines key metrics such as views, likes, dislikes, and comment counts to better understand the factors associated with highly engaged content.
 
-Technologies Used
+The project applies SQL techniques to retrieve, rank, and analyze data, demonstrating how structured queries can transform raw datasets into actionable insights. Through exploratory analysis, it identifies engagement trends across top-performing videos and compares user interaction at different ranking levels.
+
+Technologies
 SQL
-YouTube Trending Dataset
-Data Analysis
+YouTube Trending Videos Dataset
+Relational Database Querying
 Skills Demonstrated
-SQL Queries (SELECT, ORDER BY, LIMIT, OFFSET)
-Data Exploration
-Ranking and Sorting Data
-Trend Analysis
-Analytical Thinking
+SQL Query Development
+Data Exploration & Analysis
+Filtering, Sorting, and Ranking Data
+Aggregate Analysis
 Data Interpretation
+Exploratory Data Analysis (EDA)
+Critical Thinking
 Project Highlights
-Identified the most-liked, most-disliked, and most-commented trending videos.
-Compared engagement metrics across the top 10, top 100, and top 1,000 ranked videos.
-Analyzed patterns in views, likes, dislikes, and comments to understand how engagement is distributed among trending content.
-Applied SQL techniques to extract meaningful insights from a real-world dataset.
+Queried a YouTube trending dataset to analyze video engagement metrics.
+Ranked videos by likes, dislikes, and comment counts using SQL.
+Compared engagement across the top 10, top 100, and top 1,000 trending videos to identify distribution patterns.
+Applied SQL clauses including SELECT, ORDER BY, LIMIT, and OFFSET to retrieve targeted insights.
+Interpreted analytical results to explain trends in user engagement and content popularity.
